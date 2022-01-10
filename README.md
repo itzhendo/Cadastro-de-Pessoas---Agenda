@@ -1,0 +1,2 @@
+# Cadastro-de-Pessoas---Agenda
+Trabalho para estudo feito na universidade. Esse programa tem como objetivo cadastrar usuários utilizando QT, além disso, ele ordena pelo nome, busca a partir do CPF e alterar os dados. Após isso toda a lista de usuário pode ser salva em um bloco de notas. Obs: após cadastrar um usuário ele vai ser enviado para um Arquivo Temporário, você deve abri-lo para ver a lista de pessoas.
